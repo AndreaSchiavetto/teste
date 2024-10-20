@@ -1,0 +1,42 @@
+body{
+background-position: 0dvh;
+background-color: aquamarine;
+color: hsl(0, 0%, 5%);
+text-align: center;
+margin: 0px;
+
+
+}
+
+header{
+
+    font-size: 25px ;
+    color: salmon;
+    border-bottom: solid 2px salmon;
+    padding: 20px 0px 20px 0px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    font-family: "Montserrat", sans-serif;
+    
+}
+section{
+
+    font-family: "Playwrite CU", cursive;s
+    display: flex: ;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+.primeiro-video {
+    margin: 5%;
+    display: flex;
+}
+
+.aulas-extras {
+    display:flex;
+    margin: 2%;
+
+}
